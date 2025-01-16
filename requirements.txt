@@ -1,0 +1,11 @@
+zstandard
+importlib_resources
+apache_beam
+numpy
+torch
+python-chess
+tqdm
+matplotlib
+torchinfo
+berserk
+pandas

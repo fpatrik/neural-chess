@@ -1,0 +1,7 @@
+__pycache__/
+env/
+data/
+models/
+plots/
+presentation/
+syzygy/
